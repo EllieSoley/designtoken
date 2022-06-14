@@ -1,0 +1,14 @@
+{
+  "global": {
+    "Primary Color": {
+      "Purple": {
+        "value": "#6d097a",
+        "type": "color"
+      },
+      "Green": {
+        "value": "#00916f",
+        "type": "color"
+      }
+    }
+  }
+}
